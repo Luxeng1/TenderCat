@@ -1,0 +1,4 @@
+
+### 4. `.gitignore`
+
+Create a `.gitignore` file with the following content to ignore unnecessary files:
